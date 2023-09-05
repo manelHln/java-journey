@@ -1,0 +1,6 @@
+Elliot Alderson,elliot,123456,15000,123
+John Doe,john,12345,10000,324
+Monkey D Luffy,luffy,12345,5000,876
+Roronoa Zoro,zoro,12345,1000,835
+Kiyotaka Ayanokodji,ayanokodji,1234,3000,908
+Emmanuel Holonou,mowgli,azerty123,0,534
